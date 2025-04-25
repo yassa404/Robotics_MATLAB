@@ -1,0 +1,1 @@
+[dof3_rrr, arminfo] = importrobot('sim');
