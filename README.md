@@ -26,7 +26,7 @@ Contains all final files for the 4-DOF robotic sorting arm:
 **Media & Visuals**:
 - ![Simulink Model](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/folward%20and%20inverse%20simulink.jpg)
 - ![Position 4](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/position4.jpg)
-- ![Position 3](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/position3.jpg)
+
 
 ---
 
@@ -73,7 +73,8 @@ Contains all final files for the 4-DOF robotic sorting arm:
 - **Simulation GIF Preview:**  
   ![Simulation GIF](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/ezgif-69076268808e4d.gif)
 - ![Simulink Model](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/folward%20and%20inverse%20simulink.jpg)
-
+- ![Position 4](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/position4.jpg)
+- ![Position 3](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/position3.jpg)
 
 ---
 
