@@ -80,7 +80,8 @@ Contains all final files for the 4-DOF robotic sorting arm:
 
 ## 👤 Credits
 
-- Yassi Mazher Faiz
+- Yassa Mazher Fayez
 - Ali Ezzat
+- Shahd Elkilany
 
 For questions or contributions, open an issue.
