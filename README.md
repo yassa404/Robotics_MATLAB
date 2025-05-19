@@ -18,7 +18,7 @@ Learning exercises covering:
 [`4_dof_project/`](https://github.com/yassa404/Robotics_MATLAB/tree/main/4_dof_project)  
 Contains all final files for the 4-DOF robotic sorting arm:
 
-- [`robot66.mat`](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/robot66.mat) — **Run this first** to load robot variables  
+- [`matlab4.mat`](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/matlab4.mat) — **Run this first** to load robot variables  
 - [`dof_4.slx`](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/dof_4.slx) — Main Simulink model  
 - [`test3.m`](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/test3.m) — Workspace validation script  
 - [`simulation6_5.slx`](https://github.com/yassa404/Robotics_MATLAB/blob/main/4_dof_project/simulation6_5.slx) — Full simulation
